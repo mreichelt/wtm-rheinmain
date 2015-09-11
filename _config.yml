@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Solve For X Frankfurt"
-email: "mcreichelt@gmail.com"
+title: "Solve for X Frankfurt"
+email: "solveforx.fra@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/solve4xfra"
 url: "http://solve4xfra.de"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "mreichelt.github.io/solve4xfra"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -29,8 +29,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, solve for x, solve4x, moonshots, challenges, humans"
+twitterAccount: "@Solve4xFRA"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,31 +43,30 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ #- {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/schedule/", text: "Schedule"}
+ #- {permalink: "/speakers/", text: "Speakers"}
+ #- {permalink: "/team/", text: "Team"}
+ #- {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://twitter.com/solve4xfra", text: "Follow us on Twitter"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Solve For X <typeout> 2015"
-eventDate: "November, 2015"
+heroTitle: "Solve for X <typeout>"
+eventDate: "November 28th, 2015"
 typeoutTextValues: '"", "Frankfurt"'
-typeoutFallback: "Season"
+typeoutFallback: "Frankfurt"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://twitter.com/solve4xfra", text: "Follow us on Twitter"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Solve for X"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "We are a community of scientists, inventors, engineers, artists, thinkers, doers, the young, the wise, men and women from every background across every geography connected by a shared optimism that science and technology can cause radically positive things to happen in the world." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
@@ -174,20 +173,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://plus.google.com/100306385846086409727", text: "GDG Rhein-Main"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:solveforx.fra@gmail.com", text: "solveforx.fra@gmail.com"}
  -
   title: "FAQ"
   links:
@@ -199,7 +198,7 @@ blogCommentsEnabled: false
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
