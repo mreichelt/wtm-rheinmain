@@ -21,12 +21,12 @@ googleAnalyticsSiteUrl: "mreichelt.github.io/solve4xfra"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Rhein-Main"
+organizerAlternateName: "Google Developer Group Rhein-Main"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "solveforx.fra@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://plus.google.com/100306385846086409727"
 
 # Head
 metaKeywords: "event, gdg, solve for x, solve4x, moonshots, challenges, humans"
@@ -66,7 +66,7 @@ heroButtons:
 # About Block
 aboutTitle: "About Solve for X"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "We are a community of scientists, inventors, engineers, artists, thinkers, doers, the young, the wise, men and women from every background across every geography connected by a shared optimism that science and technology can cause radically positive things to happen in the world." }
+ - {title: "Who we are", image: "conference.jpg", text: "We are a community of scientists, inventors, engineers, artists, thinkers, doers, the young, the wise, men and women from every background across every geography connected by a shared optimism that science and technology can cause radically positive things to happen in the world." }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
@@ -125,9 +125,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Follow us on Twitter"
+subscribeAction: "https://twitter.com/solve4xfra"
+subscribeInfo: "We are still figuring out some things"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
