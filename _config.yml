@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "mailto:solveforx.fra@gmail.com?subject=Sponsor%20Solve%20for%20X%20Frankfurt"
+c4sponsorsUrl: "mailto:solveforx.fra@gmail.com?subject=Sponsor%20Solve%20for%20X%20Frankfurt"
 
 
 # Navigation
@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Solve for X"
 aboutBlock:
- - {title: "Who we are", image: "conference.jpg", text: "We are a community of scientists, inventors, engineers, artists, thinkers, doers, the young, the wise, men and women from every background across every geography connected by a shared optimism that science and technology can cause radically positive things to happen in the world." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Who we are", image: "field.jpg", text: "We are a community of scientists, inventors, engineers, artists, thinkers, doers, the young, the wise, men and women from every background across every geography connected by a shared optimism that science and technology can cause radically positive things to happen in the world." }
+ - {title: "Moonshots", image: "moonshots.png", text: "Solve for X is a global community that aims to surface brilliant scientific innovations and technological breakthroughs, that have the potential to solve big global problems facing humanity. We call these breakthrough projects, ‘Moonshots’, and we define a Moonshot as an outlier solution to a complex problem that is enabled by science or technology." }
+ - {title: "Thing Big", image: "earth.jpg", text: "We want to tackle the big hairy challenges of the world that affect millions or billions of people." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
