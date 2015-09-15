@@ -106,11 +106,11 @@ mapMobileCenterCoordinates: "50.1097539, 8.6690348"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueSmallImage1: "venue_2.jpg"
+venueSmallImage2: "venue_3.jpg"
+venueSmallImage3: "venue_1.jpg"
+venueTitle: "Silvertower"
+venueFeatures: ["One of the first high-rise office buildings in Frankfurt", "Located directly between main train station and city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
