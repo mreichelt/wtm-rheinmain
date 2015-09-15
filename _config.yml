@@ -68,7 +68,7 @@ aboutTitle: "About Solve for X"
 aboutBlock:
  - {title: "Who we are", image: "field.jpg", text: "We are a community of scientists, inventors, engineers, artists, thinkers, doers, the young, the wise, men and women from every background across every geography connected by a shared optimism that science and technology can cause radically positive things to happen in the world." }
  - {title: "Moonshots", image: "moonshots.png", text: "Solve for X is a global community that aims to surface brilliant scientific innovations and technological breakthroughs, that have the potential to solve big global problems facing humanity. We call these breakthrough projects, ‘Moonshots’, and we define a Moonshot as an outlier solution to a complex problem that is enabled by science or technology." }
- - {title: "Thing Big", image: "earth.jpg", text: "We want to tackle the big hairy challenges of the world that affect millions or billions of people." }
+ - {title: "Thing big", image: "earth.jpg", text: "We want to tackle the big hairy challenges of the world that affect millions or billions of people." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -89,9 +89,9 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Soon!"
+eventLocationName: "Silvertower, DB Systel"
 eventLocationLink: "http://solve4xfra.de"
-eventStreetAddress: "TBD"
+eventStreetAddress: "Jürgen-Ponto-Platz 1"
 eventAddressLocality: "Frankfurt"
 eventAddressLocalityRegion: ""
 eventPostalCode: "60329"
@@ -99,9 +99,9 @@ eventAddressCountry: "Germany"
 eventStartTime: "2015-11-28T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-11-28T20:00"
-eventPlaceCoordinates: "50.109365, 8.668986"
-mapCenterCoordinates: "50.109365, 8.668986"
-mapMobileCenterCoordinates: "50.109365, 8.668986"
+eventPlaceCoordinates: "50.1097539, 8.6690348"
+mapCenterCoordinates: "50.1097539, 8.6690348"
+mapMobileCenterCoordinates: "50.1097539, 8.6690348"
 
 # Venue Block
 venueBlockTitle: "Venue"
