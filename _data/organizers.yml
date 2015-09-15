@@ -3,6 +3,6 @@
   elements: 
     - {name: "GDG Rhein-Main", description: "GDG Rhein-Main - Open and volunteer geek community", link: "https://plus.google.com/100306385846086409727", imageUrl: "gdg-rheinmain.svg"}
 - 
-  group: "Co-organizers"
-  elements: 
-    - {name: "Webmonday Frankfurt", description: "Webmonday Frankfurt", link: "http://www.wmfra.de/", imageUrl: "webmonday-frankfurt.png"}
+#  group: "Co-organizers"
+#  elements: 
+#    - {name: "Webmonday Frankfurt", description: "Webmonday Frankfurt", link: "http://www.wmfra.de/", imageUrl: "webmonday-frankfurt.png"}
