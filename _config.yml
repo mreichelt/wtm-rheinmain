@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://twitter.com/solve4xfra", text: "Follow us on Twitter"}
+ - {link: "https://docs.google.com/forms/d/1xq3tar1lQNA4lAoaras6xKgPxUp7F6NkmlDWP1UTFog/viewform", text: "Join now!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Frankfurt"'
 typeoutFallback: "Frankfurt"
 heroButtons:
  - {link: "https://twitter.com/solve4xfra", text: "Follow us on Twitter"}
-# - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://docs.google.com/forms/d/1xq3tar1lQNA4lAoaras6xKgPxUp7F6NkmlDWP1UTFog/viewform", text: "Join now!"}
 
 # About Block
 aboutTitle: "About Solve for X"
