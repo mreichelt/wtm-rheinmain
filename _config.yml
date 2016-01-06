@@ -56,7 +56,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Solve for X <typeout>"
-eventDate: "November 28th, 2015"
+eventDate: "March 15th, 2016"
 typeoutTextValues: '"", "Frankfurt"'
 typeoutFallback: "Frankfurt"
 heroButtons:
@@ -96,9 +96,9 @@ eventAddressLocality: "Frankfurt"
 eventAddressLocalityRegion: ""
 eventPostalCode: "60329"
 eventAddressCountry: "Germany"
-eventStartTime: "2015-11-28T11:00"
+eventStartTime: "2016-03-15T11:00"
 eventDoorTime: "10:00"
-eventEndTime: "2015-11-28T17:00"
+eventEndTime: "2016-03-15T17:00"
 eventPlaceCoordinates: "50.1097539, 8.6690348"
 mapCenterCoordinates: "50.1097539, 8.6690348"
 mapMobileCenterCoordinates: "50.1097539, 8.6690348"
