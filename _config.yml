@@ -10,26 +10,26 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Solve for X Frankfurt"
+title: "WTM Rhein-Main Kickoff"
 email: "solveforx.fra@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
-baseurl: "/solve4xfra"
-url: "http://solve4xfra.de"
+description: "Google's Women Techmakers program provides visibility, community, and resources for women in technology."
+baseurl: "/wtm-rheinmain"
+url: "https://mreichelt.github.io/wtm-rheinmain"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "mreichelt.github.io/solve4xfra"
+googleAnalyticsTrackingId: "UA-85537700-1"
+googleAnalyticsSiteUrl: "mreichelt.github.io/wtm-rheinmain"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Rhein-Main"
-organizerAlternateName: "Google Developer Group Rhein-Main"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "WTM Rhein-Main"
+organizerAlternateName: "Women Techmakers Rhein-Main"
+organizerDescription: "Google's Women Techmakers program provides visibility, community, and resources for women in technology."
 organizerEmail: "solveforx.fra@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/100306385846086409727"
 
 # Head
-metaKeywords: "event, gdg, solve for x, solve4x, moonshots, challenges, humans"
+metaKeywords: "event, wtm, women, techmakers, technology, tech"
 twitterAccount: "@Solve4xFRA"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -55,16 +55,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Solve for X <typeout>"
-eventDate: "March 15th, 2016"
-typeoutTextValues: '"", "Frankfurt"'
-typeoutFallback: "Frankfurt"
+heroTitle: "Women Techmakers <typeout>"
+eventDate: "November 2nd, 2016"
+typeoutTextValues: '"", "Rhein-Main Kickoff"'
+typeoutFallback: "Rhein-Main Kickoff"
 heroButtons:
  - {link: "https://twitter.com/solve4xfra", text: "Follow us on Twitter"}
  - {link: "https://docs.google.com/forms/d/1xq3tar1lQNA4lAoaras6xKgPxUp7F6NkmlDWP1UTFog/viewform", text: "Join now!"}
 
 # About Block
-aboutTitle: "About Solve for X"
+aboutTitle: "About Women Techmakers"
 aboutBlock:
  - {title: "Who we are", image: "field.jpg", text: "We are a community of scientists, inventors, engineers, artists, thinkers, doers, the young, the wise, men and women from every background across every geography connected by a shared optimism that science and technology can cause radically positive things to happen in the world." }
  - {title: "Moonshots", image: "moonshots.png", text: "Solve for X is a global community that aims to surface brilliant scientific innovations and technological breakthroughs, that have the potential to solve big global problems facing humanity. We call these breakthrough projects, ‘Moonshots’, and we define a Moonshot as an outlier solution to a complex problem that is enabled by science or technology." }
