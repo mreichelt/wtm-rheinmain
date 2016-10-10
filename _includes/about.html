@@ -3,14 +3,14 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>Watch the video</h3>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/4PTPPEQU8CI" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/PrXarTh77EA" frameborder="0" allowfullscreen></iframe>
 
             <h3 style="margin-top: 100px">{{ site.aboutTitle }}</h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="col-md-{{ colWidth }} col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
                         <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="200" width="200" alt="{{ about.title }}">
