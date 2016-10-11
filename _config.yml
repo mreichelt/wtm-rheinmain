@@ -60,7 +60,7 @@ eventDate: "November 2nd, 2016"
 typeoutTextValues: '"", "Rhein-Main Kickoff"'
 typeoutFallback: "Rhein-Main Kickoff"
 heroButtons:
- - {link: "https://twitter.com/solve4xfra", text: "Follow us on Twitter"}
+ - {link: "https://twitter.com/WTM_Frankfurt", text: "Follow us on Twitter"}
  - {link: "https://www.meetup.com/Women-Techmakers-FRM/events/234523472/", text: "Join now!"}
 
 # About Block
