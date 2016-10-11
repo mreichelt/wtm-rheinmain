@@ -26,11 +26,11 @@ organizerAlternateName: "Women Techmakers Rhein-Main"
 organizerDescription: "Google's Women Techmakers program provides visibility, community, and resources for women in technology."
 organizerEmail: "solveforx.fra@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://plus.google.com/100306385846086409727"
+organizerLink: "http://www.meetup.com/Women-Techmakers-FRM/"
 
 # Head
 metaKeywords: "event, wtm, women, techmakers, technology, tech"
-twitterAccount: "@Solve4xFRA"
+twitterAccount: "@WTM_Frankfurt"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1xq3tar1lQNA4lAoaras6xKgPxUp7F6NkmlDWP1UTFog/viewform", text: "Join now!"}
+ - {link: "http://www.meetup.com/Women-Techmakers-FRM/events/234523472/", text: "Join now!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Rhein-Main Kickoff"'
 typeoutFallback: "Rhein-Main Kickoff"
 heroButtons:
  - {link: "https://twitter.com/solve4xfra", text: "Follow us on Twitter"}
- - {link: "https://docs.google.com/forms/d/1xq3tar1lQNA4lAoaras6xKgPxUp7F6NkmlDWP1UTFog/viewform", text: "Join now!"}
+ - {link: "https://www.meetup.com/Women-Techmakers-FRM/events/234523472/", text: "Join now!"}
 
 # About Block
 aboutTitle: "About Women Techmakers"
@@ -90,15 +90,15 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Silvertower, DB Systel"
-eventLocationLink: "http://solve4xfra.de"
+eventLocationLink: "http://www.dbsystel.de/dbsystel/start/standorte/frankfurt.html"
 eventStreetAddress: "Jürgen-Ponto-Platz 1"
 eventAddressLocality: "Frankfurt"
 eventAddressLocalityRegion: ""
 eventPostalCode: "60329"
 eventAddressCountry: "Germany"
-eventStartTime: "2016-03-15T11:00"
-eventDoorTime: "10:00"
-eventEndTime: "2016-03-15T17:00"
+eventStartTime: "2016-11-02T19:00"
+eventDoorTime: "18:30"
+eventEndTime: "2016-11-02T22:30"
 eventPlaceCoordinates: "50.1097539, 8.6690348"
 mapCenterCoordinates: "50.1097539, 8.6690348"
 mapMobileCenterCoordinates: "50.1097539, 8.6690348"
@@ -115,7 +115,7 @@ venueFeatures: ["One of the first high-rise office buildings in Frankfurt", "Loc
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "solveforx"
+twitterHashTag: "wtmfra"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -126,7 +126,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Follow us on Twitter"
-subscribeAction: "https://twitter.com/solve4xfra"
+subscribeAction: "https://twitter.com/WTM_Frankfurt"
 subscribeInfo: "We are still figuring out some things"
 
 # Tickets Block
@@ -174,15 +174,15 @@ ticketsOffers:
 # Footer
 socialLinks:
  #- {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=solve4xfra", icon: "twitter"}
- #- {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/WTM_Frankfurt", icon: "twitter"}
+ - {link: "https://www.facebook.com/groups/womentechmakersrheinmain/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://plus.google.com/100306385846086409727", text: "GDG Rhein-Main"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.meetup.com/Women-Techmakers-FRM/", text: "WTM Rhein-Main"}
+   - {link: "https://www.womentechmakers.com/", text: "Women Techmakers"}
  -
   title: "Contacts"
   links:
